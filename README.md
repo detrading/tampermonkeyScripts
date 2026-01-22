@@ -17,9 +17,10 @@ Adds a "[Google Maps]" link right after addresses on Zillow property cards (sear
 - Uses MutationObserver for dynamic Zillow loading
 
 **Screenshot**:
-![Zillow address with Maps link](zillow-google-maps-link.png)
+![Zillow Google Maps Tool](https://raw.githubusercontent.com/detrading/tampermonkeyscripts/main/zillow-google-maps.user.png)
 
-## Contributing / Issues
-Found a bug or want a feature? Open an issue!
+## License
 
-License: MIT
+[MIT License](LICENSE) — feel free to fork, modify, and use.
+
+Made with ❤️ by
