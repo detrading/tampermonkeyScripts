@@ -17,7 +17,7 @@ Adds a "[Google Maps]" link right after addresses on Zillow property cards (sear
 - Uses MutationObserver for dynamic Zillow loading
 
 **Screenshot**:
-![Zillow Google Maps Tool](https://raw.githubusercontent.com/detrading/tampermonkeyscripts/main/zillow-google-maps.user.png)
+![Zillow Google Maps Tool](https://raw.githubusercontent.com/detrading/tampermonkeyscripts/main/zillow-google-maps.png)
 
 ## License
 
