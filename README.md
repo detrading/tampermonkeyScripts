@@ -24,4 +24,4 @@ Adds a "[Google Maps]" link right after addresses on Zillow property cards (sear
 
 [MIT License](LICENSE) — feel free to fork, modify, and use.
 
-Made with ❤️ by
+Made with ❤️ by detrading
